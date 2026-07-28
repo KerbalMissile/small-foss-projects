@@ -12,4 +12,13 @@ A repo that showcases lesser known FOSS projects in addition to more popular one
 - Around 74% lighter than VSCode
 - Actively being developed and maintained
 - Growing community
-- Promising Future 
+- Promising Future
+- No AI integration 
+
+## Mod Managers
+
+[Moxi](https://github.com/KerbalMissile/Moxi)
+- Made by KerbalMissile
+- Growing game and mod database
+- Actively being developed
+- No ads, no accounts, fully free 
