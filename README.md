@@ -31,7 +31,7 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 
 ## Archive Managers
 
-[ArchiveFree](https://github.com/justlinuxnoob/archivefree) **LINUX ONLY**
+[ArchiveFree](https://github.com/justlinuxnoob/archivefree) - **LINUX ONLY**
 - Made by justlinuxnoob
 - Active development
 - Useful alternative to other popular Archive Managers
