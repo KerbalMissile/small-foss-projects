@@ -23,4 +23,13 @@ A repo that showcases lesser known FOSS projects in addition to more popular one
 - Made by KerbalMissile
 - Growing game and mod database
 - Actively being developed
-- No ads, no accounts, fully free 
+- No ads, no accounts, fully free
+
+## Misc.
+
+[Termyx](https://github.com/SS-YYC/Termyx)
+- Made by SS-YYC
+- General app for statistics and other fun little features
+- Not actively being developed
+- Fun to play around with or use
+- Terminal based
