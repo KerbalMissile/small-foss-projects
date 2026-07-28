@@ -1,5 +1,5 @@
 # small-foss-projects
-A repo that showcases lesser known FOSS projects in addition to more popular ones as an alternative to major software.
+A repo that showcases lesser known FOSS projects in addition to, maybe, more popular ones as an alternative to major software.
 
 ## Legend
 
