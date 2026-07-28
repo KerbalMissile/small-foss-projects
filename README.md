@@ -9,6 +9,8 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 
 [Archive Managers](https://github.com/KerbalMissile/small-foss-projects#archive-managers)
 
+[Music Players](https://github.com/KerbalMissile/small-foss-projects#music-players)
+
 [Misc.](https://github.com/KerbalMissile/small-foss-projects/blob/main/README.md#misc)
 
 ## Code Editors / IDE's
@@ -35,6 +37,19 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 - Made by justlinuxnoob
 - Active development
 - Useful alternative to other popular Archive Managers
+
+## Music Players
+
+[Snowify](https://github.com/nyakuoff/Snowify)
+- Made by nyakuoff
+- Has Linux, Windows, and MacOS support
+- Not actively being developed
+- Easy to use
+- Alternative to Spotify and other music players
+- Similar UI to Spotify
+- Has basically every Spotify feature and more
+- Fully free
+- No ads 
 
 ## Misc.
 
