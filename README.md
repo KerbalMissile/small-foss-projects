@@ -7,6 +7,8 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 
 [Mod Managers](https://github.com/KerbalMissile/small-foss-projects#mod-managers)
 
+[Archive Managers](https://github.com/KerbalMissile/small-foss-projects#archive-managers)
+
 [Misc.](https://github.com/KerbalMissile/small-foss-projects/blob/main/README.md#misc)
 
 ## Code Editors / IDE's
@@ -25,7 +27,14 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 - Made by KerbalMissile
 - Growing game and mod database
 - Actively being developed
-- No ads, no accounts, fully free
+- No ads, no accounts, fully fre
+
+## Archive Managers
+
+[ArchiveFree](https://github.com/justlinuxnoob/archivefree) **LINUX ONLY**
+- Made by justlinuxnoob
+- Active development
+- Useful alternative to other popular Archive Managers
 
 ## Misc.
 
