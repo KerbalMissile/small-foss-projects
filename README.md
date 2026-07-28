@@ -7,6 +7,8 @@ A repo that showcases lesser known FOSS projects in addition to more popular one
 
 [Mod Managers](https://github.com/KerbalMissile/small-foss-projects#mod-managers)
 
+[Misc.](https://github.com/KerbalMissile/small-foss-projects/blob/main/README.md#misc)
+
 ## Code Editors / IDE's
 
 [Kodo](https://github.com/KerbalMissile/Kodo)
