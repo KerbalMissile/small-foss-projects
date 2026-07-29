@@ -73,7 +73,6 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 [Snowify](https://github.com/nyakuoff/Snowify)
 - Made by nyakuoff
 - Has Linux, Windows, and MacOS support
-- Not actively being developed
 - Easy to use
 - Alternative to Spotify and other music players
 - Similar UI to Spotify
