@@ -13,6 +13,8 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 
 [Music Players](https://github.com/KerbalMissile/small-foss-projects#music-players)
 
+[Trading](https://github.com/KerbalMissile/small-foss-projects#trading)
+
 [Misc.](https://github.com/KerbalMissile/small-foss-projects/blob/main/README.md#misc)
 
 ## Coding
@@ -77,7 +79,14 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 - Similar UI to Spotify
 - Has basically every Spotify feature and more
 - Fully free
-- No ads 
+- No ads
+
+## Trading
+
+[Flowmap](https://github.com/nazmiefearmutcu/flowmap)
+- Trading visualized
+- Bookmap free alternative
+- Exact same thing as Bookmap but made free for everyone 
 
 ## Misc.
 
