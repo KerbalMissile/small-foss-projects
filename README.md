@@ -5,6 +5,9 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 
 [Code Editors / IDE's](https://github.com/KerbalMissile/small-foss-projects/tree/main#code-editors--ides)
 
+[Coding](https://github.com/KerbalMissile/small-foss-projects#coding)
+- [Compilers]()
+
 [Mod Managers](https://github.com/KerbalMissile/small-foss-projects#mod-managers)
 
 [Archive Managers](https://github.com/KerbalMissile/small-foss-projects#archive-managers)
@@ -30,6 +33,18 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 - Python teaching tools
 - Active development
 - Great for learning and coding in Python without a massive IDE
+
+## Coding
+
+### Compilers
+
+[jmake++](https://github.com/replit-user/jmakepp)
+- Build tool for C++
+- Made by replit-user
+- Active development
+- No dependencies
+- Alternative to Make or CMake
+
 
 ## Mod Managers
 
