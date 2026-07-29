@@ -25,6 +25,7 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 - Active development
 - No dependencies
 - Alternative to Make or CMake
+- Lightweight
 
 ### Code Editors / IDE's
 
