@@ -3,10 +3,9 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 
 ## Legend
 
-[Code Editors / IDE's](https://github.com/KerbalMissile/small-foss-projects/tree/main#code-editors--ides)
-
 [Coding](https://github.com/KerbalMissile/small-foss-projects#coding)
 - [Compilers](https://github.com/KerbalMissile/small-foss-projects#compilers)
+- [Code Editors / IDE's](https://github.com/KerbalMissile/small-foss-projects/tree/main#code-editors--ides)
 
 [Mod Managers](https://github.com/KerbalMissile/small-foss-projects#mod-managers)
 
@@ -16,7 +15,18 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 
 [Misc.](https://github.com/KerbalMissile/small-foss-projects/blob/main/README.md#misc)
 
-## Code Editors / IDE's
+## Coding
+
+### Compilers
+
+[jmake++](https://github.com/replit-user/jmakepp)
+- Build tool for C++
+- Made by replit-user
+- Active development
+- No dependencies
+- Alternative to Make or CMake
+
+##$ Code Editors / IDE's
 
 [Kodo](https://github.com/KerbalMissile/Kodo)
 - Made by KerbalMissile & SS-YYC
@@ -33,18 +43,6 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 - Python teaching tools
 - Active development
 - Great for learning and coding in Python without a massive IDE
-
-## Coding
-
-### Compilers
-
-[jmake++](https://github.com/replit-user/jmakepp)
-- Build tool for C++
-- Made by replit-user
-- Active development
-- No dependencies
-- Alternative to Make or CMake
-
 
 ## Mod Managers
 
