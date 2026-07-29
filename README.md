@@ -81,6 +81,12 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 - Fully free
 - No ads
 
+[Zuno](https://github.com/noFAYZ/zuno)
+- YouTube music client
+- No ads and free
+- Offline downloads
+- Sign in with Google to get your playlists
+
 ## Trading
 
 [Flowmap](https://github.com/nazmiefearmutcu/flowmap)
