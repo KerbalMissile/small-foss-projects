@@ -26,7 +26,7 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 - No dependencies
 - Alternative to Make or CMake
 
-##$ Code Editors / IDE's
+### Code Editors / IDE's
 
 [Kodo](https://github.com/KerbalMissile/Kodo)
 - Made by KerbalMissile & SS-YYC
