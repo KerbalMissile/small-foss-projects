@@ -84,7 +84,7 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 ## Trading
 
 [Flowmap](https://github.com/nazmiefearmutcu/flowmap)
-- Trading visualized
+- Trading visualizer
 - Bookmap free alternative
 - Exact same thing as Bookmap but made free for everyone 
 
