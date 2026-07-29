@@ -21,7 +21,15 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 - Actively being developed and maintained
 - Growing community
 - Promising Future
-- No AI integration 
+- No AI integration
+
+[MeadowPy](https://github.com/AlexHettle/MeadowPy)
+- Made by AlexHettle
+- Python specific
+- AI assisted coding
+- Python teaching tools
+- Active development
+- Great for learning and coding in Python without a massive IDE
 
 ## Mod Managers
 
