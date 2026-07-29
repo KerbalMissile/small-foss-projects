@@ -27,6 +27,12 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 - Alternative to Make or CMake
 - Lightweight
 
+[Mantis](https://github.com/kekkbringer/mantis)
+- Made by kekkbringer
+- Small C compiler written in C++
+- Development is very active
+- Promising long term goal
+
 ### Code Editors / IDE's
 
 [Kodo](https://github.com/KerbalMissile/Kodo)
