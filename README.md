@@ -6,7 +6,7 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 [Code Editors / IDE's](https://github.com/KerbalMissile/small-foss-projects/tree/main#code-editors--ides)
 
 [Coding](https://github.com/KerbalMissile/small-foss-projects#coding)
-- [Compilers](https://github.com/KerbalMissile/small-foss-projects/blob/main/README.md#compilers)
+- [Compilers](https://github.com/KerbalMissile/small-foss-projects#compilers)
 
 [Mod Managers](https://github.com/KerbalMissile/small-foss-projects#mod-managers)
 
