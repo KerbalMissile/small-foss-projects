@@ -66,7 +66,7 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 - Made by KerbalMissile
 - Growing game and mod database
 - Actively being developed
-- No ads, no accounts, fully fre
+- No ads, no accounts, fully free
 
 ## Music Players
 
