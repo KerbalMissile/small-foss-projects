@@ -13,6 +13,9 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 
 [Music Players](https://github.com/KerbalMissile/small-foss-projects#music-players)
 
+[Storage / Saving](https://github.com/KerbalMissile/small-foss-projects#storage--saving)
+- [Text Storage](https://github.com/KerbalMissile/small-foss-projects#text-storage)
+
 [Trading](https://github.com/KerbalMissile/small-foss-projects#trading)
 
 [Misc.](https://github.com/KerbalMissile/small-foss-projects/blob/main/README.md#misc)
