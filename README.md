@@ -86,12 +86,23 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 - Offline downloads
 - Sign in with Google to get your playlists
 
+## Storage / Saving
+
+### Text Storage
+
+[Snipora](https://github.com/snipora/snipora)
+- Good way to store LLM prompts
+- Simple way to store text snippets or the like
+- Organizable and searchable notes or text 
+- Available for MacOS, Windows, and Linux
+- Easy download via their website
+
 ## Trading
 
 [Flowmap](https://github.com/nazmiefearmutcu/flowmap)
 - Trading visualizer
 - Bookmap free alternative
-- Exact same thing as Bookmap but made free for everyone 
+- Exact same thing as Bookmap but made free for everyone
 
 ## Misc.
 
