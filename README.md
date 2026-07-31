@@ -49,6 +49,12 @@ A repo that showcases lesser known FOSS projects in addition to, maybe, more pop
 
 ### Compilers
 
+[Antcc](https://codeberg.org/lsof/antcc)
+- Small C compiler
+- Capable of compiling real C projects such as Lua or DOOM
+- Supports most C11 and C23 features
+- Written in C11
+
 [jmake++](https://github.com/replit-user/jmakepp)
 - Build tool for C++
 - Made by replit-user
